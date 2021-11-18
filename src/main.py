@@ -35,6 +35,7 @@ def hide():
     global show
     # 遍历摸鱼窗口，将其隐藏/显示
     for window in play:
+        # 如果摸鱼与工作窗口重合则优先执行工作窗口职能
         if window == work:
             continue
         # 判断窗口是否存在
