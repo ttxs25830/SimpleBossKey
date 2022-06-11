@@ -1,6 +1,6 @@
 # SimpleBossKey  Beta 0.2.0
 
-#### *简称[SBK](https://github.com/wza123/SimpleBossKey)，为[wza](https://github.com/wza123)~~（用一晚上）~~使用python语言开发的纯快捷键交互式最小老板键软件*
+#### *简称[SBK](https://github.com/wza123/SimpleBossKey)，为一晚上使用python语言开发的纯快捷键交互式最小老板键软件*
 
 ~~蒟蒻第一次搞开发~~
 
